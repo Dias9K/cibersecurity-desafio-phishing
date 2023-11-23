@@ -16,6 +16,6 @@
 - Template de site utilizada: ``` Twitter ```
 - URL para clone: http://www.twitter.com
 
-### Resutados
+### Resultados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./passwd1.png "Optional title")
